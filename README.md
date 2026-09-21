@@ -40,7 +40,7 @@ a premium audience, since that's clearly what higher-spend customers prefer.
 Python, Pandas, Matplotlib, Google Colab
 
 ## Files in this repo
-- CodSoft_Task4_CustomerAnalysis.ipynb - all the code
+- CodSoft_Task4.ipynb - all the code
 - task4_chart1_location_engagement.png
 - task4_chart2_spend_tier.png
 
